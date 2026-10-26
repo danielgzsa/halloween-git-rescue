@@ -76,4 +76,4 @@ El repositori es publicarà a GitHub amb el nom `halloween-git-rescue`.
 
 **URL del repositori:** https://github.com/danielgzsa/halloween-git-rescue
 
-**Captura de la publicació:** pendent d'afegir.
+![Publicació del repositori a GitHub](img/22publicacio-github.png)
